@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(imagess/lm.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    padding: 50px;
+    margin: 8% auto 0;
+    width: 300px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.493);
+    box-shadow: 0 0 3px 0 rgba(14, 13, 13, 0.432);
+    border-radius: 10%;
+}
+.container h1{
+    color: rgba(48, 3, 247, 0.842);
+    margin-bottom: 20px;
+}
+.input{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.btn{
+    background-color: #1c8adb;
+}
+.but{
+    padding-top: 20px;
+}
